@@ -16,5 +16,5 @@ I used ChatGPT as a learning aid during these projects. In the neural network as
 - Project 5 Chapter 8: Dimensionality Reduction<br>
 - Project 6 Chapter 10: Artificial Neural Networks<br>
 - Project 7 Chapter 16: Natural Language Processing<br>
-## [Link to the Project Notebooks](https://drive.google.com/drive/folders/1GfUlHMVXZc9v74MoB11yhCVnDDI9ESBu)<br>
-[View the project notebooks on Google Drive](YOUR_PUBLIC_GOOGLE_DRIVE_FOLDER_URL)<br>
+**Link to the Project Notebooks**:<br>
+- [Link to Project on Google](https://drive.google.com/drive/folders/1GfUlHMVXZc9v74MoB11yhCVnDDI9ESBu?usp=drive_link)<br>
